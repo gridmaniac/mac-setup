@@ -1,0 +1,8 @@
+font-family = "JetBrains Mono"
+font-size = 14
+background-opacity = 0.97
+
+theme = "Mirage" 
+
+# custom-shader = ~/.config/ghostty/shaders/cursor.glsl
+# custom-shader-animation = false
