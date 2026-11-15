@@ -24,7 +24,7 @@ yabai -m config mouse_action2 resize
 
 yabai -m config mouse_drop_action swap
 
-yabai -m rule --add app="^System Settings$" layer=above manage=off
+yabai -m rule --add app="^System Settings$" sub-layer=above manage=off
 yabai -m rule --add app="^Calculator$" manage=off
 yabai -m rule --add app="^Karabiner-Elements$" manage=off
 
